@@ -1,0 +1,48 @@
+<resources>
+    <string name="app_name">Inventory App</string>
+
+    <string name="insert_dummy">Insert dummy data</string>
+
+    <string name="delete_all">Delete all</string>
+
+    <string name="save">Save</string>
+
+    <string name="delete">Delete</string>
+
+    <string name="edit_name_hint">Product Name</string>
+
+    <string name="edit_price_hint">Price</string>
+
+    <string name="edit_quantity_hint">Quantity</string>
+
+    <string name="edit_supplier_name_hint">Supplier Name</string>
+
+    <string name="edit_supplier_number_hint">Supplier Phone Number</string>
+
+    <string name="edit_order_button">ORDER</string>
+
+    <string name="edit_minus">-</string>
+
+    <string name="edit_plus">+</string>
+
+    <string name="empty_view">It\'s empty here! Press the button to insert some products!</string>
+
+    <string name="add_product_label">Add Product</string>
+
+    <string name="edit_product_label">Edit Product</string>
+
+    <string name="failed">Something went wrong!</string>
+
+    <string name="succeeded">Succeeded!</string>
+
+    <string name="unsaved">Continue unsaved?</string>
+
+    <string name="continue_unsaved">Continue</string>
+
+    <string name="discard">Discard</string>
+
+    <string name="delete_question">Delete?</string>
+
+    <string name="cancel">Cancel</string>
+
+</resources>
